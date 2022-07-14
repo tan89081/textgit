@@ -1,4 +1,5 @@
 diff查看
+分离头指针
 新建分支temp
 hhhhh reset
 hello tanyanyan 添加一行 eshi
